@@ -1,6 +1,6 @@
 <div>
    <a href="https://github.com/Gregorio60Hz">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GregorioHz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gregorio60Hz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gregorio60Hz&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
